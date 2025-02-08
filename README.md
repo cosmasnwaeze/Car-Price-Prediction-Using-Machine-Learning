@@ -1,8 +1,6 @@
 # Car-Price-Prediction-Using-Machine-Learning
 Car Price Prediction Using Machine Learning: Linear Regression,  Decision Tree, Random Forest, and Gradient Boosting
 
-# **Car Price Prediction Using Machine Learning**
-
 ![Car Price ](https://i.postimg.cc/ZqdrHTtQ/Black-and-Blue-Modern-Simple-Car-Dealer-Presentation.png)
 
 ## **Introduction**
